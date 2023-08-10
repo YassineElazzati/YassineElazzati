@@ -1,7 +1,7 @@
 <h1 align="center">Hello, i'm Yassine El Azzati</h1>
 <h3 align="center">I'm seeking for a 18-Month Full Stack Developer Intership</h3>
 
-🌱 I’mcurrently learning <strong> JavaScript, Java, MySQL</strong> <br> -
+🌱 I’mcurrently learning <strong> JavaScript, Java, MySQL</strong> <br> 
 👨‍💻 All of my projects are available athttps://github.com/YassineElazzati?tab=repositories <br>
 📫 Reach me here --> <a href="Yassine.elazzati@outlook.fr">Yassine.elazzati@outlook.fr </a>
 

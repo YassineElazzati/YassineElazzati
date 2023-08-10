@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning <strong> JavaScript, Java, MySQL</strong> <br> 
 👨‍💻 All of my projects are available at <a href= "https://github.com/YassineElazzati?tab=repositories"> MyRepo </a> <br>
-📫 Reach me here --> <a href="Yassine.elazzati@outlook.fr">My Mail </a>
+📫 Reach me here --> <a href="mailto:Yassine.elazzati@outlook.fr">My Mail </a>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/yassine-el-azzati-7b5a331b8/"><img

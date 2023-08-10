@@ -2,7 +2,7 @@
 <h3 align="center">I'm seeking for a 18-Month Full Stack Developer Intership</h3>
 
 🌱 I’m currently learning <strong> JavaScript, Java, MySQL</strong> <br> 
-👨‍💻 All of my projects are available at <a https://github.com/YassineElazzati?tab=repositories </a> <br>
+👨‍💻 All of my projects are available at <a href= "https://github.com/YassineElazzati?tab=repositories"> MyRepo </a> <br>
 📫 Reach me here --> <a href="Yassine.elazzati@outlook.fr">Yassine.elazzati@outlook.fr </a>
 
 <h3 align="left">Connect with me:</h3>

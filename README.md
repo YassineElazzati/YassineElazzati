@@ -1,10 +1,9 @@
 <h1 align="center">Hello, i'm Yassine El Azzati</h1>
 <h3 align="center">I'm seeking for a 18-Month Full Stack Developer Intership</h3>
 
-- 🔭 I’m currently working on Java and database using MySQL (https://github.com/YassineElazzati/Ecommerce-Springboot) <br> - 🌱 I’m
-currently learning <strong> JavaScript, Java, MySQL</strong> <br> -
-👨‍💻 All of my projects are available at
-https://github.com/YassineElazzati?tab=repositories <br> - 📫 Reach me here --> <a href="Yassine.elazzati@outlook.fr">Yassine.elazzati@outlook.fr </a>
+🌱 I’mcurrently learning <strong> JavaScript, Java, MySQL</strong> <br> -
+👨‍💻 All of my projects are available athttps://github.com/YassineElazzati?tab=repositories <br>
+📫 Reach me here --> <a href="Yassine.elazzati@outlook.fr">Yassine.elazzati@outlook.fr </a>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/yassine-el-azzati-7b5a331b8/"><img

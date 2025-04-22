@@ -1,6 +1,12 @@
-<h1 align="center">Salut, moi c'est Yassine El Azzati 👋</h1>
+<h1 align="center">Hi there, I'm Yassine El Azzati 👋</h1>
 
-## 🌐 Me retrouver
+<p align="center">
+Full Stack Developer • Tech Enthusiast • Always ready for new challenges 💻🚀
+</p>
+
+---
+
+## 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/yassine-el-azzati-7b5a331b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -12,7 +18,7 @@
 
 ---
 
-## 🛠️ Skills & Outils
+## 🛠️ Skills & Tools
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -27,23 +33,22 @@
 
 ---
 
-## 📊 Mes Stats GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassineElAzzati&show_icons=true&theme=radical" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YassineElAzzati&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineElAzzati&theme=radical" alt="Streak GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineElAzzati&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineElAzzati&layout=compact&theme=radical" alt="Langues GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineElAzzati&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🎯 Challenge Personnel
+## 🎯 Personal Challenge
 
 [![Codewars](https://www.codewars.com/users/YassineElazzati/badges/large)](https://www.codewars.com/users/YassineElAzzati)
 
 ---
-

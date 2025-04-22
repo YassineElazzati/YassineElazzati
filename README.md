@@ -1,7 +1,5 @@
 <h1 align="center">Salut, moi c'est Yassine El Azzati 👋</h1>
 
----
-
 ## 🌐 Me retrouver
 <p align="left">
   <a href="https://www.linkedin.com/in/yassine-el-azzati-7b5a331b8/" target="_blank">

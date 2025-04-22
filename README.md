@@ -1,9 +1,5 @@
 <h1 align="center">Salut, moi c'est Yassine El Azzati 👋</h1>
 
-<p align="center">
-Développeur Full Stack • Passionné de Tech • Toujours prêt pour de nouveaux défis 💻🚀
-</p>
-
 ---
 
 ## 🌐 Me retrouver

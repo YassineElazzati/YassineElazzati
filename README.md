@@ -1,11 +1,22 @@
 <h1 align="center">🚀 Yassine El Azzati</h1>
 
 <p align="center">
-👨‍💻 Full Stack Dev · ☁️ Cloud & DevOps Addict · 🧠 Tech Problem Solver
+👨‍💻 Full Stack Developer · ☁️ Cloud & DevOps Enthusiast · 🎓 Tech Trainer (Bac → Bac+5)
 </p>
 
 <p align="center">
-I love building things that work — fast, scalable, and clean. Always down for a good tech challenge.
+I build robust, scalable software — and I teach others how to do it right.<br/>
+From fundamentals to advanced architectures, I train students from high school to Master’s level.
+</p>
+
+---
+
+## 🎓 What I Do
+<p align="center">
+• Train future developers (Bac to Bac+5)<br/>
+• Design real-world projects & clean architectures<br/>
+• Simplify complex concepts with a hands-on approach<br/>
+• Share best practices from industry experience
 </p>
 
 ---
@@ -42,5 +53,3 @@ I love building things that work — fast, scalable, and clean. Always down for 
     <img src="https://img.shields.io/badge/Discord-Join_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
----
